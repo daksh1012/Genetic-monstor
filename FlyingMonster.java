@@ -26,4 +26,3 @@ public class AquaticMonster extends Monster {
     }
 }
 
-// Similar structure for MountainMonster and DesertMonster
